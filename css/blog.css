@@ -11,6 +11,7 @@ h1{
     text-align: center;
     font-size: 36px;
     margin: 0 0 20px;
+    padding: 20px;
     color: blue;
 }
 .container{
@@ -23,10 +24,11 @@ h1{
 input{
     width: 100%;
     padding: 20px;
-    margin: 0 0 20px;
-    border-radius: 20px;
+    margin: 20px auto;
+    border-radius: 50px;
     outline: none;
-    border: solid blue
+    border: none;
+    box-shadow: 0 0 10px #000;
 }
 .btn{
     font-size: 20px;
@@ -34,4 +36,6 @@ input{
     color: white;
     border: none;
     padding: 20px;
+    margin: auto 170px;
+    border-radius: 10px;
 }
