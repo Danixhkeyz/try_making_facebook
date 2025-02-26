@@ -7,11 +7,31 @@
 body{
     font-family: sans-serif;
 }
-.container{
-    width: 750px;
-    margin: 0 auto;
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin: 0 0 20px;
+    color: blue;
 }
-form input{
-    margin: 10px;
-    padding: 5px;
+.container{
+    border: 1px solid red;
+    width: 500px;
+    margin: 150px auto;
+    padding: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 20px;
+    margin: 0 0 20px;
+    border-radius: 20px;
+    outline: none;
+    border: solid blue
+}
+.btn{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 20px;
 }
