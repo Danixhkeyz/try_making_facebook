@@ -51,7 +51,7 @@ input::placeholder{
     box-shadow: 0 0 10px #000;
     color: #fff;
     border-radius: 45px;
-    font-weight: 600;
+    font-weight: 600; 
 }
 .wrapper .register-link{
     font-size: 14.5px;
